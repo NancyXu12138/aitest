@@ -16,4 +16,4 @@ A professional photography portfolio website showcasing the work of Emily Carter
 - Font Awesome Icons
 
 ## Live Demo
-Visit the live website at: [Your GitHub Pages URL will appear here] 
+Visit the live website at: https://nancyxu12138.github.io/aitest/ 
